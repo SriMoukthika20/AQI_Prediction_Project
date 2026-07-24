@@ -41,3 +41,20 @@ python app.py
 Test:
 
 python test_api.py
+
+
+Project Flow Diagram:
+
+Air Quality Dataset
+        ↓
+Data Cleaning
+        ↓
+Feature Selection
+        ↓
+Random Forest Regression
+        ↓
+Model Evaluation
+        ↓
+Flask API
+        ↓
+AQI Prediction
